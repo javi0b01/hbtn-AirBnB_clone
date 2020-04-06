@@ -1,4 +1,61 @@
-# AirBnB clone - The console
+# 0x00. AirBnB clone - The console
+Foundations - Higher-level programming ― AirBnB clone
+
+###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
+by _Guillaume_
+
+## Learning Objectives
+* Third teamwork
+* How to create a Python package
+* How to create a command interpreter in Python using the ```cmd``` module
+* What is Unit testing and how to implement it in a large project
+* How to serialize and deserialize a Class
+* How to write and read a JSON file
+* How to manage ```datetime```
+* What is an ```UUID```
+* What is ```*args``` and how to use it
+* What is ```**kwargs``` and how to use it
+* How to handle named arguments in a function
+
+## Resources
+* [AirBnB clone](https://intranet.hbtn.io/concepts/74)
+* [2 Airbnb console](https://www.youtube.com/watch?v=jeJwRB33YNg&feature=youtu.be)
+* [HBNB project overview](https://www.youtube.com/watch?v=E12Xc3H2xqo&feature=youtu.be)
+* [cmd module](https://docs.python.org/3.4/library/cmd.html)
+* [packages](https://intranet.hbtn.io/concepts/66)
+* [uuid module](https://docs.python.org/3.4/library/uuid.html)
+* [datetime](https://docs.python.org/3.4/library/datetime.html)
+* [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
+* [args/kwargs](https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/)
+* [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
+* [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest)
+* [HBNB - The console](https://www.youtube.com/watch?v=p00ES-5K4C8&feature=youtu.be)
+
+## Tasks
+* [x] 0. README, AUTHORS
+* [x] 1. Be PEP8 compliant!
+* [x] 2. Unittests
+* [x] 3. BaseModel
+* [x] 4. Create BaseModel from dictionary
+* [x] 5. Store first object
+* [x] 6. Console 0.0.1
+* [x] 7. Console 0.1
+* [x] 8. First User
+* [x] 9. More classes!
+* [x] 10. Console 1.0
+* [ ] 11. All instances by class name
+* [ ] 12. Count instances
+* [ ] 13. Show
+* [ ] 14. Destroy
+* [ ] 15. Update
+* [ ] 16. Update from dictionary
+* [ ] 17. Unittests for the Console!
+
+## Developers
+Manuel Mosquera, Javier Andrés Garzón Patarroyo
+- [website](https://tecnoayuda.co/)
+
+:man_technologist: :books: :computer: :globe_with_meridians:
 
 ## Description of the project:
 The goal of the project is to deploy on your server a simple copy of the AirBnB website.
@@ -93,13 +150,3 @@ Now shows all instances created.
 (hbnb) quit
 vagrant@vagrant-ubuntu-trusty-64:~/AirBnB_clone$ 
 ```
-
-## Developers:
-- Manuel Mosquera
-- Javier Patarroyo
-
---------------------------------
-Holberton School
-AirBnB_clone
-0x00. AirBnB clone - The console
-Date: Started 02-13-2020, end by 02-20-2020 (in 7 days)
