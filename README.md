@@ -52,8 +52,8 @@ by _Guillaume_
 * [ ] 17. Unittests for the Console!
 
 ## Developers
-Manuel Mosquera, Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
+- Manuel Mosquera
+- [javi](https://github.com/javi0x00)
 
 :man_technologist: :books: :computer: :globe_with_meridians:
 
