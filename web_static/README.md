@@ -1,9 +1,6 @@
 # 0x01. AirBnB clone - Web static
 Foundations - Higher-level programming ― AirBnB clone
 
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-by _Guillaume_
-
 ## Learning Objectives
 ###### Background Context
 __Web static, what?__
@@ -66,5 +63,5 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 * [ ] 12. Accessibility
 
 ## Software Developer
-Built by [javi](https://github.com/javi0x00) :copyright: 2020  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
+Built by [Javi](https://github.com/javi0b01) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0b01/).

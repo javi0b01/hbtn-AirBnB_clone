@@ -1,9 +1,6 @@
 # 0x00. AirBnB clone - The console
 Foundations - Higher-level programming ― AirBnB clone
 
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-by _Guillaume_
-
 ## Learning Objectives
 * Third teamwork
 * How to create a Python package
@@ -53,7 +50,7 @@ by _Guillaume_
 
 ## Developers
 - Manuel Mosquera
-- [javi](https://github.com/javi0x00)
+- [Javi](https://github.com/javi0b01)
 
 :man_technologist: :books: :computer: :globe_with_meridians:
 
